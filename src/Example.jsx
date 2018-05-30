@@ -63,6 +63,8 @@ export default class Example extends React.Component {
             checked={isColorSwitchChecked}
             offColor="rgb(0, 122, 255)"
             onColor="rgb(255, 149, 0)"
+            height={20}
+            width={35}
             onChange={checked =>
               this.setState({
                 isColorSwitchChecked: checked,

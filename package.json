@@ -22,7 +22,8 @@
     "postversion": "git push && git push --tags",
     "start": "webpack-dev-server --config webpack.config.dev",
     "umd": "NODE_ENV=production webpack --config webpack.config.umd",
-    "version": "npm run babel && npm run umd"
+    "version": "npm run babel && npm run umd",
+    "build": "npm run babel"
   },
   "dependencies": {
     "color-name": "^1.1.3",

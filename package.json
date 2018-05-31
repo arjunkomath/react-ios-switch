@@ -1,10 +1,10 @@
 {
-  "name": "react-ios-switch",
-  "version": "0.1.19",
+  "name": "react-custom-ios-switch",
+  "version": "0.1.0",
   "description": "React switch component",
-  "author": "Matthew King <mking@clari.com>",
+  "author": "Arjun Komath <arjunkomath@gmail.com>",
   "license": "MIT",
-  "repository": "clari/react-ios-switch",
+  "repository": "arjunkomath/react-ios-switch",
   "main": "lib",
   "files": [
     "build/bundle.js",
